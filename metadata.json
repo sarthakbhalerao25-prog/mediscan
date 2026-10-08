@@ -1,0 +1,10 @@
+{
+  "name": "MediScan - AI Prescription Assistance System",
+  "description": "Digitize, streamline, and simplify handwritten or printed medical prescriptions using OCR & AI, with smart schedules, medication reminders, and safety alerts.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
